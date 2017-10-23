@@ -9,14 +9,3 @@ node+mongodb实现的电影网站
 5.分页与搜索。<br>
 6.最后用mocha这个js测试工具进行了user的单元测试。<br>
 
-展示：
--------
-![](https://github.com/chenyeqing/movie_node-mongo/raw/master/img/index.gif)
-![](https://github.com/chenyeqing/movie_node-mongo/raw/master/img/detail.gif)
-![](https://github.com/chenyeqing/movie_node-mongo/raw/master/img/comment.gif)
-![](https://github.com/chenyeqing/movie_node-mongo/raw/master/img/admin_user_list.gif)
-![](https://github.com/chenyeqing/movie_node-mongo/raw/master/img/admin_movie_update.gif)
-![](https://github.com/chenyeqing/movie_node-mongo/raw/master/img/admin_movie_new.gif)
-![](https://github.com/chenyeqing/movie_node-mongo/raw/master/img/admin_movie_list.gif)
-![](https://github.com/chenyeqing/movie_node-mongo/raw/master/img/admin_category_new.gif)
-![](https://github.com/chenyeqing/movie_node-mongo/raw/master/img/admin_category_list.gif)
